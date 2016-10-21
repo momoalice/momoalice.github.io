@@ -1,4 +1,3 @@
 <Response>
-<Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
 <Play>https://momoalice.github.io/Hello.mp3</Play>
 </Response>
